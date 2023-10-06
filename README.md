@@ -42,6 +42,7 @@ Overall the app is easy to use and a fast way to check the weather and forecast 
 
 ## Plans
 Add SQL database to recored current weather. This way weekly average temperature and other metrics can be calculted.
+See separate reop: https://github.com/ARogala/OpenWeatherMapAPIConsoleAppSQLite 
 
 Make an actual user interface maybe with [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui)
 
