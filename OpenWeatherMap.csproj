@@ -36,6 +36,9 @@
     <None Update="windDirection.PNG">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="meteo.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
